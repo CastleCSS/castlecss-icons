@@ -1,2 +1,2 @@
 # castlecss-icons (Alpha)
-CastleCSS icons 
+CastleCSS icon set via Font Awesome and Cloudflare, currently developing in the develop branch
