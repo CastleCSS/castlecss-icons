@@ -20,7 +20,7 @@ CastleCSS is built so it's easy to update, you can just download make it your ow
 You can find the documentation and examples at http://www.castlecss.com and [castlecss-docs](https://github.com/CastleCSS/castlecss-icons)
 
 ## Setup
-Your project should have a setup similair to this (included in the [Full CastleCSS Package](https://github.com/CastleCSS/castlecss)):
+Your project should have a setup similair to this (included in the [CastleCSS Boilerplate](https://github.com/CastleCSS/castlecss-boilerplate)):
 With this you make sure your own variables overwrite the castle-core variables and your setup is still updatable.
 
 ```
