@@ -6,7 +6,7 @@ CastleCSS icon set via Font Awesome and Cloudflare.
 ## CastleCSS Framework
 The icon package is part of the [CastleCSS Meta Package](https://github.com/CastleCSS/castlecss), you need this, the [castlecss-core](https://github.com/CastleCSS/castlecss) or create your own variables files in order to make castlecss-icons work.
 
-Since castlecss-icons@1.0 the castlecss-core is automatically installed into your node_modules too.
+Since castlecss-icons v1.0 the castlecss-core is automatically installed into your node_modules too.
 
 Even easier: Download the [CastleCSS Boilerplate](https://www.github.com/CastleCSS/castlecss-boilerplate). All Packages are included + examples and project setup
 
@@ -62,6 +62,7 @@ Your main.scss should have a setup similair to this (included in the [Full Castl
     --------------------------------------
 */
 ```
+
 ## Roadmap
 We're currently working hard on making the CastleCSS expansions and improvements. CastleCSS is made to serve as lightweight basis for tailor made software but we do want to give you the option to install a few modules to make your life easier.
 
