@@ -1,6 +1,6 @@
 {
   "name": "castlecss-icons",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Icons for CastleCSS",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,25 @@
     "type": "git",
     "url": "git+https://github.com/CastleCSS/castlecss-icons.git"
   },
-  "author": "Gerwin Beumer <gerwin@denieuwezaak.nl> (http://www.castlecss.com)",
+  "author": "Darius Rosendahl <darius@denieuwezaak.nl> (http://www.castlecss.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CastleCSS/castlecss-icons/issues"
   },
-  "homepage": "https://github.com/CastleCSS/castlecss-icons#readme"
+  "homepage": "http://www.castlecss.com",
+  "keywords": [
+    "modular",
+    "alert",
+    "notification",
+    "blocks",
+    "building",
+    "framework",
+    "scss",
+    "css",
+    "castle",
+    "castlecss"
+  ],
+  "dependencies": {
+    "castlecss-core": "^2.1.0"
+  }
 }
