@@ -4,9 +4,12 @@ CastleCSS icon set via Font Awesome and Cloudflare.
 ![CastleCSS logo @CastleCss.com](https://www.doordarius.nl/castlecss-logo-250.png)
 
 ## CastleCSS Framework
-The buttons files are part of the [Full CastleCSS Package](https://github.com/CastleCSS/castlecss), you need this, the [castlecss-core](https://github.com/CastleCSS/castlecss) or create your own variables files in order to make castlecss-icons work.
+The icon package is part of the [CastleCSS Meta Package](https://github.com/CastleCSS/castlecss), you need this, the [castlecss-core](https://github.com/CastleCSS/castlecss) or create your own variables files in order to make castlecss-icons work.
+
+Even easier: Download the [CastleCSS Boilerplate](https://www.github.com/CastleCSS/castlecss-boilerplate). All Packages are included + examples and project setup
 
 ## How to install
+- Download the [CastleCSS Boilerplate](https://www.github.com/CastleCSS/castlecss-boilerplate). All Packages are included + examples and project setup
 - Install via [NPM](https://www.npmjs.com/): ```npm install castlecss-icons```
 - Require it in your own NPMJS package
 - Download or clone the package
@@ -34,7 +37,6 @@ With this you make sure your own variables overwrite the castle-core variables a
 | | 
 | | /*	CastleCSS files included automatically here */
 | | castlecss-core/
-| | castlecss-buttons/
 | | castlecss-icons/
 | | castlecss-etc ;)/
 ```
