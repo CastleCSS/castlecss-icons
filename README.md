@@ -20,7 +20,7 @@ CastleCSS is built so it's easy to update, you can just download make it your ow
 ```npm update castlecss-icons```
 
 ## Documentation and examples
-You can find the documentation and examples at http://www.castlecss.com and [castlecss-docs](https://github.com/CastleCSS/castlecss-icons)
+You can find the documentation and examples at http://www.castlecss.com and [castlecss-docs](https://github.com/CastleCSS/castlecss-docs)
 
 ## Setup
 Your project should have a setup similair to this (included in the [CastleCSS Boilerplate](https://github.com/CastleCSS/castlecss-boilerplate)):
