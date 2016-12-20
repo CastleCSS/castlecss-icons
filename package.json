@@ -1,6 +1,6 @@
 {
   "name": "castlecss-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Icons for CastleCSS",
   "main": "index.js",
   "scripts": {
